@@ -23,13 +23,6 @@
 ![支持平台](https://img.shields.io/badge/支持平台-Windows_|_Mac_|_Linux_|_Android-blueviolet.svg)
 
 
-#### 卑微的小标题
-
-这个脚本只有一个人在修改\~如果喜欢的话还请留个[好评](https://greasyfork.org/scripts/449291/feedback)和Star哦\~   
-- 如有bug等问题请在这发[议题反馈](https://github.com/hmjz100/Online-disk-direct-link-download-assistant/issues)  
-- 或者在[GreasyFork反馈](https://greasyfork.org/scripts/449291/feedback)，如果看到的话我会尽量修改。
-- Greasy Fork 有人乱举报/(ㄒoㄒ)/~~
-
 ## 统计~
 
 ![Daily Installs](https://palerock.cn/node-service/images/greasyfork/stats/daily-installs/449291)
