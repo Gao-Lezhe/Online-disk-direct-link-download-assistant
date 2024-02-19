@@ -23,23 +23,6 @@
 ![支持平台](https://img.shields.io/badge/支持平台-Windows_|_Mac_|_Linux_|_Android-blueviolet.svg)
 
 
-## 统计~
-
-![Daily Installs](https://palerock.cn/node-service/images/greasyfork/stats/daily-installs/449291)
-![Daily Updates](https://palerock.cn/node-service/images/greasyfork/stats/daily-updates/449291)
-![Total Installs](https://palerock.cn/node-service/images/greasyfork/stats/total-installs/449291)
-![Fan Score](https://palerock.cn/node-service/images/greasyfork/info/fan_score/449291?name=得分&rcolor=orange)
-![Good Ratings](https://palerock.cn/node-service/images/greasyfork/info/good_ratings/449291?name=好评&rcolor=darkcyan)
-![Views Info](https://palerock.cn/node-service/images/greasyfork/views-info/449291)
-![License](https://palerock.cn/node-service/images/greasyfork/info/license/449291?name=许可证&rcolor=blueviolet)  
-
-![Starchart](https://starchart.cc/hmjz100/Online-disk-direct-link-download-assistant.svg)
-
-## 版本号
-V. 1.2.2
-- 如果 此处公布的脚本版本号 与 您获取到本脚本的网站 上公布的脚本版本号不一致，请不要安装，因为那可能是盗脚本的网站   
-例如 MonkeyFork 就是盗用本脚本的网站之一，本脚本目前仅在 Github 与 Greas Fork 发布，如果您是在其他渠道获取到本脚本的，请不要安装。
-
 ## 公告
 
 1. 要是连油猴菜单也没有加载出来的话，请检查网络环境能否打开[`unpkg.com`](https://unpkg.com)，  
